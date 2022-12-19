@@ -1,2 +1,3 @@
 # vs-code-clone
-for making vs code clone
+
+![added file](./assets/vs%20code.png)
